@@ -1,0 +1,71 @@
+.navbar {
+  /* border: 1px solid red; */
+  display: flex;
+  padding-top: 5px;
+  width: 70vw;
+}
+
+.logo {
+  /* border: 1px solid black; */
+  width: 20%;
+  margin-left: 10px;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.input {
+  /* border: 1px solid blue; */
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.input input {
+  width: 80%;
+  height: 50%;
+  padding-left: 10px;
+  font-size: 16px;
+}
+
+.input button {
+  height: 55%;
+  width: 20%;
+}
+
+.buttons {
+  margin-top: 10px;
+  text-align: left;
+}
+
+.buttons button {
+    font-size: 12px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 5px 10px;
+}
+
+.result {
+  /* border: 1px solid red; */
+  text-align: left;
+  margin: 10px 20px;
+  padding: 10px 20px;
+  width: 80vw;
+}
+
+.grey {
+    color: grey;
+}
+
+.title {
+    border-right: 1px solid black;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+
+.exc {
+    margin-right: 10px;
+}
